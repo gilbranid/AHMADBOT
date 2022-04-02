@@ -13,9 +13,9 @@
 let fs = require('fs')
 let chalk = require('chalk')
 
-global.linkGC = ['https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL', 'https://chat.whatsapp.com/LcbHXfIVrD9APFFW2E9cXC', 'https://chat.whatsapp.com/Dj8kMyI48u6KGbaAQtKi70'] // ganti jadi group lu
-global.owner = ['6281250521455', '6281250521455', '6281250521455'] // Masukan nomot kalian
-global.mods = ['6281250521455', '6281250521455'] // Moderator
+global.linkGC = ['https://chat.whatsapp.com/KHMZI7krHlfKZ1xm4u4jLX', 'https://chat.whatsapp.com/KHMZI7krHlfKZ1xm4u4jLX', 'https://chat.whatsapp.com/KHMZI7krHlfKZ1xm4u4jLX'] // ganti jadi group lu
+global.owner = ['6281268477296', '6281268477296', '6281268477296'] // Masukan nomot kalian
+global.mods = ['6282225232861', '6282225232861'] // Moderator
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Pengguna premium tidak memerlukan limit
 global.APIs = { // API Prefix
   // name: 'https://website'
